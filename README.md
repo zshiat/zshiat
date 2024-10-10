@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @zshiat or Taíssa
 - 👀 I’m interested in astronomy and programming
-- 🌱 I’m currently learning programming in C#
+- 🌱 I’m currently learning programming in C, C# and Python
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: taissamartinspg@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- 😄 Pronouns: she/her 
 
 <!---
 zshiat/zshiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
